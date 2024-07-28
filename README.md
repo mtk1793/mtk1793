@@ -5,12 +5,6 @@
 [![Outlook](https://img.shields.io/badge/-Outlook-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mahmoud.kiasari@dal.ca)
 [![Github](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/mtk1793)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
 ## About Me
 
 I'm a passionate researcher and engineer currently pursuing my PhD at Dalhousie University. My research focuses on enhancing fire protection in electric vehicle batteries through thermal energy storage and machine learning using Simulink. I am also involved in analyzing the performance of EV batteries in a Vehicle-to-Grid (V2G) system and their impact on grid power consumption.

@@ -50,16 +50,13 @@ A project focused on improving the safety of electric vehicle batteries by integ
 ### [V2G System Analysis](https://github.com/yourusername/v2g-system-analysis)
 Analyzing the performance and impact of Vehicle-to-Grid systems on grid power consumption using advanced simulation tools.
 
-## Contributions
 
-### MITACS Project
-I am actively involved in a MITACS project focused on [describe the project briefly]. This project aims to [outline the goals and objectives]. My role includes [describe your role and contributions].
 
 ## Contact
 
 - **Email:** mahmoud.kiasari@dal.ca
 - **LinkedIn:** [linkedin.com/in/mahmoud-kiasari](https://www.linkedin.com/in/mahmoud-kiasari)
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+
 
 Feel free to reach out if you want to collaborate on exciting projects or discuss research ideas!
 
